@@ -1,0 +1,22 @@
+[theme]
+base = "dark"
+font = "Space Mono, monospace"
+headingFont = "Space Mono, monospace"
+codeFont = "Space Mono, monospace"
+primaryColor = "#96a6e4"
+backgroundColor = "#12151a"
+secondaryBackgroundColor = "#454656"
+textColor = "#fafafa"
+#4f9249cc
+
+[[theme.fontFaces]]
+family = "Space Mono"
+url = "https://fonts.gstatic.com/s/spacemono/v15/i7dPIFZifjKcF5UAWdDRYEF8RQ.woff2"
+weight = "400"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Space Mono"
+url = "https://fonts.gstatic.com/s/spacemono/v15/i7dMIFZifjKcF5UAWdDRaPpZYFE.woff2"
+weight = "700"
+style = "normal"
